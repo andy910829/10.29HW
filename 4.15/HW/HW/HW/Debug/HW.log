@@ -1,0 +1,4 @@
+﻿  main.c
+c:\users\88696\dropbox\我的電腦 (laptop-svuipigo)\desktop\109360253_賴冠樺10.29交\4.15\hw\hw\hw\main.c(17): warning C4244: '=': 將 'double' 轉換為 'float'，由於類型不同，可能導致資料遺失
+c:\users\88696\dropbox\我的電腦 (laptop-svuipigo)\desktop\109360253_賴冠樺10.29交\4.15\hw\hw\hw\main.c(8): warning C4305: '正在初始化': 從 'double' 轉換為 'float'，是由較大的類型轉換為較小的類型，可能導致資料遺失
+  HW.vcxproj -> C:\Users\88696\Dropbox\我的電腦 (LAPTOP-SVUIPIGO)\Desktop\109360253_賴冠樺10.29交\4.15\HW\HW\Debug\HW.exe
